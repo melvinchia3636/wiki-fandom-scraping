@@ -1,0 +1,4784 @@
+[
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e8/Barrel_1.png",
+        "id": 1,
+        "name": "Circle Blue",
+        "base_production": "1",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/77/Barrel_2.png",
+        "id": 2,
+        "name": "Square Pink",
+        "base_production": "3",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3d/Barrel_3.png",
+        "id": 3,
+        "name": "Trash Can",
+        "base_production": "9",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/12/Barrel_4.png",
+        "id": 4,
+        "name": "Billboard",
+        "base_production": "27",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e4/Barrel_5.png",
+        "id": 5,
+        "name": "Post Box",
+        "base_production": "81",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4a/Barrel_6.png",
+        "id": 6,
+        "name": "Blue Cuboid",
+        "base_production": "243",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/de/Barrel_7.png",
+        "id": 7,
+        "name": "Look Up",
+        "base_production": "721",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e7/Barrel_8.png",
+        "id": 8,
+        "name": "Helter Skelter",
+        "base_production": "2,187",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7a/Barrel_9.png",
+        "id": 9,
+        "name": "Rubbish Bin",
+        "base_production": "6,561",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/45/Barrel_10.png",
+        "id": 10,
+        "name": "Watermelon",
+        "base_production": "19,683",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0c/Barrel_11.png",
+        "id": 11,
+        "name": "I Love You",
+        "base_production": "54,049",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/31/Barrel_12.png",
+        "id": 12,
+        "name": "Blue Swirl",
+        "base_production": "177,147",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/61/Barrel_13.png",
+        "id": 13,
+        "name": "Good Night",
+        "base_production": "531,441",
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/eb/Barrel_14.png",
+        "id": 14,
+        "name": "I See You",
+        "base_production": [
+            "1.594 M",
+            "1.594 b",
+            "1.594e6"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/99/Barrel_15.png",
+        "id": 15,
+        "name": "No Entry",
+        "base_production": [
+            "4.782 M",
+            "4.782 b",
+            "4.782e6"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9b/Barrel_16.png",
+        "id": 16,
+        "name": "Tree Doctor",
+        "base_production": [
+            "14.34 M",
+            "14.34 b",
+            "1.434e7"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_17.png",
+        "id": 17,
+        "name": "Layer Cake",
+        "base_production": [
+            "43.04 M",
+            "43.04 b",
+            "4.304e7"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a8/Barrel_18.png",
+        "id": 18,
+        "name": "Twinkle Twinkle",
+        "base_production": [
+            "129.1 M",
+            "129.1 b",
+            "1.291e8"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a3/Barrel_19.png",
+        "id": 19,
+        "name": "Lurid Layered",
+        "base_production": [
+            "387.4 M",
+            "387.4 b",
+            "3.874e8"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7b/Barrel_20.png",
+        "id": 20,
+        "name": "Neon Trash",
+        "base_production": [
+            "1.162 B",
+            "1.162 c",
+            "1.162e9"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1e/Barrel_21.png",
+        "id": 21,
+        "name": "Tie Your Laces",
+        "base_production": [
+            "3.486 B",
+            "3.486 c",
+            "3.486e9"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/99/Barrel_22.png",
+        "id": 22,
+        "name": "Banana Hole",
+        "base_production": [
+            "10.46 B",
+            "10.46 c",
+            "1.046e10"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2a/Barrel_23.png",
+        "id": 23,
+        "name": "The Pink Hex of Doom",
+        "base_production": [
+            "31.38 B",
+            "31.38 c",
+            "3.138e10"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/35/Barrel_24.png",
+        "id": 24,
+        "name": "Sign o' The Times",
+        "base_production": [
+            "94.14 B",
+            "94.14 c",
+            "9.414e10"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/02/Barrel_25.png",
+        "id": 25,
+        "name": "Trash Bin",
+        "base_production": [
+            "282.4 B",
+            "282.4 c",
+            "2.824e11"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2d/Barrel_26.png",
+        "id": 26,
+        "name": "Shades of Grey*",
+        "base_production": [
+            "847.2 B",
+            "847.2 c",
+            "8.472e11"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5d/Barrel_27.png",
+        "id": 27,
+        "name": "Wrong Direction",
+        "base_production": [
+            "2.541 T",
+            "2.541 d",
+            "2.541e12"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a7/Barrel_28.png",
+        "id": 28,
+        "name": "Which Direction?",
+        "base_production": [
+            "7.625 T",
+            "7.625 d",
+            "7.625e12"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4f/Barrel_29.png",
+        "id": 29,
+        "name": "Open Wide",
+        "base_production": [
+            "22.87 T",
+            "22.87 d",
+            "2.287e13"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d1/Barrel_30.png",
+        "id": 30,
+        "name": "I C U 2",
+        "base_production": [
+            "68.63 T",
+            "68.63 d",
+            "6.863e13"
+        ],
+        "version_added": "1.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b6/Barrel_31.png",
+        "id": 31,
+        "name": "Illuminati",
+        "base_production": [
+            "205.8 T",
+            "205.8 d",
+            "2.058e14"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f1/Barrel_32.png",
+        "id": 32,
+        "name": "No Parcels",
+        "base_production": [
+            "617.6 T",
+            "617.6 d",
+            "6.176e14"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/47/Barrel_33.png",
+        "id": 33,
+        "name": "Rhapsody in Green",
+        "base_production": [
+            "1.853 Q",
+            "1.853 e",
+            "1.853e15"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/87/Barrel_34.png",
+        "id": 34,
+        "name": "Double Jump",
+        "base_production": [
+            "5.559 Q",
+            "5.559 e",
+            "5.559e15"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f2/Barrel_35.png",
+        "id": 35,
+        "name": "Spin the Lime",
+        "base_production": [
+            "16.67 Q",
+            "16.67 e",
+            "1.667e16"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3f/Barrel_36.png",
+        "id": 36,
+        "name": "The Box",
+        "base_production": [
+            "50.03 Q",
+            "50.03 e",
+            "5.003e16"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1a/Barrel_37.png",
+        "id": 37,
+        "name": "Visor",
+        "base_production": [
+            "150.0 Q",
+            "150.0 e",
+            "1.500e17"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e3/Barrel_38.png",
+        "id": 38,
+        "name": "Walking on Sunshine",
+        "base_production": [
+            "450.2 Q",
+            "450.2 e",
+            "4.502e17"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/42/Barrel_39.png",
+        "id": 39,
+        "name": "Fast Forward",
+        "base_production": [
+            "1.350 q",
+            "1.350 f",
+            "1.350e18"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0b/Barrel_40.png",
+        "id": 40,
+        "name": "Hexbox",
+        "base_production": [
+            "4.052 q",
+            "4.052 f",
+            "4.052e18"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/12/Barrel_41.png",
+        "id": 41,
+        "name": "Firecracker",
+        "base_production": [
+            "12.15 q",
+            "12.15 f",
+            "1.215e19"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/ca/Barrel_42.png",
+        "id": 42,
+        "name": "Hedge Trimmer",
+        "base_production": [
+            "36.47 q",
+            "36.47 f",
+            "3.647e19"
+        ],
+        "version_added": "1.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/72/Barrel_43.png",
+        "id": 43,
+        "name": "Not Too Fat",
+        "base_production": [
+            "109.4 q",
+            "109.4 f",
+            "1.094e20"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9b/Barrel_44.png",
+        "id": 44,
+        "name": "Rubbish Can",
+        "base_production": [
+            "328.2 q",
+            "328.2 f",
+            "3.282e20"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8d/Barrel_45.png",
+        "id": 45,
+        "name": "Straight Down",
+        "base_production": [
+            "987.7 q",
+            "987.7 f",
+            "9.877e20"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/44/Barrel_46.png",
+        "id": 46,
+        "name": "Rewind",
+        "base_production": [
+            "2.954 S",
+            "2.954 g",
+            "2.954e21"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/ec/Barrel_47.png",
+        "id": 47,
+        "name": "Two at Once",
+        "base_production": [
+            "8.862 S",
+            "8.862 g",
+            "8.862e21"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7a/Barrel_48.png",
+        "id": 48,
+        "name": "The End of The Beginning",
+        "base_production": [
+            "26.58 S",
+            "26.58 g",
+            "2.658e22"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/eb/Barrel_49.png",
+        "id": 49,
+        "name": "Purple Whirlpool",
+        "base_production": [
+            "79.76 S",
+            "79.76 g",
+            "7.976e22"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e4/Barrel_50.png",
+        "id": 50,
+        "name": "I Can't Hear You",
+        "base_production": [
+            "239.2 S",
+            "239.2 g",
+            "2.392e23"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/92/Barrel_51.png",
+        "id": 51,
+        "name": "Deja Vu",
+        "base_production": [
+            "717.8 S",
+            "717.8 g",
+            "7.178e23"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f7/Barrel_52.png",
+        "id": 52,
+        "name": "The Shapes Game",
+        "base_production": [
+            "2.153 s",
+            "2.153 h",
+            "2.153e24"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/cc/Barrel_53.png",
+        "id": 53,
+        "name": "Coconut",
+        "base_production": [
+            "6.461 s",
+            "6.461 h",
+            "6.461e24"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/ee/Barrel_54.png",
+        "id": 54,
+        "name": "The Blob",
+        "base_production": [
+            "19.38 s",
+            "19.38 h",
+            "1.938e25"
+        ],
+        "version_added": "1.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/ce/Barrel_55.png",
+        "id": 55,
+        "name": "Talkie Toaster",
+        "base_production": [
+            "58.14 s",
+            "58.14 h",
+            "5.814e25"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b8/Barrel_56.png",
+        "id": 56,
+        "name": "Lucky For Some",
+        "base_production": [
+            "174.4 s",
+            "174.4 h",
+            "1.744e26"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fd/Barrel_57.png",
+        "id": 57,
+        "name": "How Many Shades?",
+        "base_production": [
+            "523.3 s",
+            "523.3 h",
+            "5.233e26"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/68/Barrel_58.png",
+        "id": 58,
+        "name": "Better Buy Brown",
+        "base_production": [
+            "1.570 O",
+            "1.570 i",
+            "1.570e27"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/67/Barrel_59.png",
+        "id": 59,
+        "name": "Raspberry Jam",
+        "base_production": [
+            "4.434 O",
+            "4.434 i",
+            "4.434e27"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/88/Barrel_60.png",
+        "id": 60,
+        "name": "DO NOT OPEN",
+        "base_production": [
+            "14.13 O",
+            "14.13 i",
+            "1.41e28"
+        ],
+        "version_added": "1.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/04/Barrel_61.png",
+        "id": 61,
+        "name": "Cherry Bomb",
+        "base_production": [
+            "42.39 O",
+            "42.39 i",
+            "4.239e28"
+        ],
+        "version_added": "1.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2c/Barrel_62.png",
+        "id": 62,
+        "name": "Medical Use Only",
+        "base_production": [
+            "127.1 O",
+            "127.1 i",
+            "1.271e29"
+        ],
+        "version_added": "1.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8a/Barrel_63.png",
+        "id": 63,
+        "name": "Neopolitian",
+        "base_production": [
+            "381.5 O",
+            "381.5 i",
+            "3.815e29"
+        ],
+        "version_added": "1.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/78/Barrel_64.png",
+        "id": 64,
+        "name": "32 million",
+        "base_production": [
+            "1.144 N",
+            "1.144 j",
+            "1.144e30"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f2/Barrel_65.png",
+        "id": 65,
+        "name": "Read It?*",
+        "base_production": [
+            "3.433 N",
+            "3.433 j",
+            "3.433e30"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c1/Barrel_66.png",
+        "id": 66,
+        "name": "Giza in Grey",
+        "base_production": [
+            "10.30 N",
+            "10.30 j",
+            "1.030e31"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/09/Barrel_67.png",
+        "id": 67,
+        "name": "Coal",
+        "base_production": [
+            "30.90 N",
+            "30.90 j",
+            "3.090e31"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ab/Barrel_68.png",
+        "id": 68,
+        "name": "Handle With Care",
+        "base_production": [
+            "92.70 N",
+            "92.70 j",
+            "9.270e31"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_69.png",
+        "id": 69,
+        "name": "Dollhouse WC",
+        "base_production": [
+            "278.1 N",
+            "278.1 j",
+            "2.781e32"
+        ],
+        "version_added": "1.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3f/Barrel_70.png",
+        "id": 70,
+        "name": "Not Black",
+        "base_production": [
+            "834.3 N",
+            "834.3 j",
+            "8.343e32"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/09/Barrel_71.png",
+        "id": 71,
+        "name": "Tsunami",
+        "base_production": [
+            "2.503 D",
+            "2.503 k",
+            "2.503e33"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4b/Barrel_72.png",
+        "id": 72,
+        "name": "Not Too Fresh",
+        "base_production": [
+            "7.509 D",
+            "7.509 k",
+            "7.509e33"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fa/Barrel_73.png",
+        "id": 73,
+        "name": "Hypnosis",
+        "base_production": [
+            "22.52 D",
+            "22.52 k",
+            "2.252e34"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c7/Barrel_74.png",
+        "id": 74,
+        "name": "Danger Zone",
+        "base_production": [
+            "67.58 D",
+            "67.58 k",
+            "6.758e34"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c2/Barrel_75.png",
+        "id": 75,
+        "name": "Inception",
+        "base_production": [
+            "202.7 D",
+            "202.7 k",
+            "2.027e35"
+        ],
+        "version_added": "1.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/00/Barrel_76.png",
+        "id": 76,
+        "name": "8 Ball",
+        "base_production": [
+            "608.2 D",
+            "608.2 k",
+            "6.082e35"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4c/Barrel_77.png",
+        "id": 77,
+        "name": "It's Alive",
+        "base_production": [
+            "1.824 UD",
+            "1.824 l",
+            "1.824e36"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/dd/Barrel_78.png",
+        "id": 78,
+        "name": "Fire Ink'd",
+        "base_production": [
+            "5.474 UD",
+            "5.474 l",
+            "5.474e36"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f2/Barrel_79.png",
+        "id": 79,
+        "name": "Flip Top",
+        "base_production": [
+            "16.42 UD",
+            "16.42 l",
+            "1.642e37"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0c/Barrel_80.png",
+        "id": 80,
+        "name": "Melting Pot",
+        "base_production": [
+            "49.26 UD",
+            "49.26 l",
+            "4.926e37"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/37/Barrel_81.png",
+        "id": 81,
+        "name": "Mr. Brownstone",
+        "base_production": [
+            "147.8 UD",
+            "147.8 l",
+            "1.478e38"
+        ],
+        "version_added": "1.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/29/Barrel_82.png",
+        "id": 82,
+        "name": "AAAARGH!!!",
+        "base_production": [
+            "443.4 UD",
+            "443.4 l",
+            "4.434e38"
+        ],
+        "version_added": "2.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/96/Barrel_83.png",
+        "id": 83,
+        "name": "Pixelated",
+        "base_production": [
+            "1.330 DD",
+            "1.330 m",
+            "1.330e39"
+        ],
+        "version_added": "2.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/ce/Barrel_84.png",
+        "id": 84,
+        "name": "The Watcher",
+        "base_production": [
+            "3.990 DD",
+            "3.990 m",
+            "3.990e39"
+        ],
+        "version_added": "2.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/05/Barrel_85.png",
+        "id": 85,
+        "name": "Out Of Focus",
+        "base_production": [
+            "11.97 DD",
+            "11.97 m",
+            "1.197e40"
+        ],
+        "version_added": "2.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/36/Barrel_86.png",
+        "id": 86,
+        "name": "Let Me Out",
+        "base_production": [
+            "35.91 DD",
+            "35.91 m",
+            "3.591e40"
+        ],
+        "version_added": "2.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/db/Barrel_87.png",
+        "id": 87,
+        "name": "Triple Trouble",
+        "base_production": [
+            "107.7 DD",
+            "107.7 m",
+            "1.077e41"
+        ],
+        "version_added": "2.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b6/Barrel_88.png",
+        "id": 88,
+        "name": "Asimov",
+        "base_production": [
+            "323.2 DD",
+            "323.2 m",
+            "3.232e41"
+        ],
+        "version_added": "2.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e1/Barrel_89.png",
+        "id": 89,
+        "name": "I Didn't Do It",
+        "base_production": [
+            "969.7 DD",
+            "969.7 m",
+            "9.697e41"
+        ],
+        "version_added": "2.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/29/Barrel_90.png",
+        "id": 90,
+        "name": "Emptiness",
+        "base_production": [
+            "2.909 TD",
+            "2.909 n",
+            "2.909e42"
+        ],
+        "version_added": "2.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d1/Barrel_91.png",
+        "id": 91,
+        "name": "Out of Place",
+        "base_production": [
+            "8.727 TD",
+            "8.727 n",
+            "8.727e42"
+        ],
+        "version_added": "2.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c1/Barrel_92.png",
+        "id": 92,
+        "name": "Quarter Slice",
+        "base_production": [
+            "26.18 TD",
+            "26.18 n",
+            "2.618e43"
+        ],
+        "version_added": "2.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d0/Barrel_93.png",
+        "id": 93,
+        "name": "Normandy",
+        "base_production": [
+            "78.55 TD",
+            "78.55 n",
+            "7.855e43"
+        ],
+        "version_added": "2.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d4/Barrel_94.png",
+        "id": 94,
+        "name": "Endte",
+        "base_production": [
+            "235.6 TD",
+            "235.6 n",
+            "2.356e44"
+        ],
+        "version_added": "2.5.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/64/Barrel_95.png",
+        "id": 95,
+        "name": "Outattime",
+        "base_production": [
+            "706.9 TD",
+            "706.9 n",
+            "7.069e44"
+        ],
+        "version_added": "2.5.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/70/Barrel_96.png",
+        "id": 96,
+        "name": "Prim And Proper",
+        "base_production": [
+            "2.120 QD",
+            "2.120 o",
+            "2.120e45"
+        ],
+        "version_added": "2.5.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4d/Barrel_97.png",
+        "id": 97,
+        "name": "Chrome",
+        "base_production": [
+            "6.362 QD",
+            "6.362 o",
+            "6.362e45"
+        ],
+        "version_added": "2.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/da/Barrel_98.png",
+        "id": 98,
+        "name": "Glory",
+        "base_production": [
+            "19.08 QD",
+            "19.08 o",
+            "1.908e46"
+        ],
+        "version_added": "2.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0c/Barrel_99.png",
+        "id": 99,
+        "name": "Pollock",
+        "base_production": [
+            "57.26 QD",
+            "57.26 o",
+            "5.726e46"
+        ],
+        "version_added": "2.6",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/64/Barrel_100.png",
+        "id": 100,
+        "name": "P-Nut",
+        "base_production": [
+            "171.7 QD",
+            "171.7 o",
+            "1.717e47"
+        ],
+        "version_added": "3.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/60/Barrel_101.png",
+        "id": 101,
+        "name": "Number Two",
+        "base_production": [
+            "513.3 QD",
+            "515.3 o",
+            "5.153e47"
+        ],
+        "version_added": "3.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/87/Barrel_102.png",
+        "id": 102,
+        "name": "Thor",
+        "base_production": [
+            "1.546 qD",
+            "1.546 p",
+            "1.546e48"
+        ],
+        "version_added": "3.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_103.png",
+        "id": 103,
+        "name": "Swiss",
+        "base_production": [
+            "4.638 qD",
+            "4.638 p",
+            "4.638e48"
+        ],
+        "version_added": "3.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1e/Barrel_104.png",
+        "id": 104,
+        "name": "The Cage",
+        "base_production": [
+            "13.91 qD",
+            "13.91 p",
+            "1.391e49"
+        ],
+        "version_added": "3.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5a/Barrel_105.png",
+        "id": 105,
+        "name": "Mobile Delivery",
+        "base_production": [
+            "41.74 qD",
+            "41.74 p",
+            "4.174e49"
+        ],
+        "version_added": "3.1",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/98/Barrel_106.png",
+        "id": 106,
+        "name": "The Hangover",
+        "base_production": [
+            "125.2 qD",
+            "125.2 p",
+            "1.252e50"
+        ],
+        "version_added": "3.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7e/Barrel_107.png",
+        "id": 107,
+        "name": "Christmas",
+        "base_production": [
+            "375.7 qD",
+            "375.7 p",
+            "3.757e50"
+        ],
+        "version_added": "3.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5d/Barrel_108.png",
+        "id": 108,
+        "name": "Hot Stuff",
+        "base_production": [
+            "1.127 SD",
+            "1.127 q",
+            "1.127e51"
+        ],
+        "version_added": "3.2",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/79/Barrel_109.png",
+        "id": 109,
+        "name": "Somewhere...",
+        "base_production": [
+            "3.381 SD",
+            "3.381 q",
+            "3.381e51"
+        ],
+        "version_added": "3.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f9/Barrel_110.png",
+        "id": 110,
+        "name": "HP",
+        "base_production": [
+            "10.14 SD",
+            "10.14 q",
+            "1.014e52"
+        ],
+        "version_added": "3.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/90/Barrel_111.png",
+        "id": 111,
+        "name": "Slade",
+        "base_production": [
+            "30.43 SD",
+            "30.43 q",
+            "3.043e52"
+        ],
+        "version_added": "3.3",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e4/Barrel_112.png",
+        "id": 112,
+        "name": "Around the World",
+        "base_production": [
+            "91.29 SD",
+            "91.29 q",
+            "9.129e52"
+        ],
+        "version_added": "3.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/77/Barrel_113.png",
+        "id": 113,
+        "name": "Sushi Roll",
+        "base_production": [
+            "273.8 SD",
+            "273.8 q",
+            "2.738e53"
+        ],
+        "version_added": "3.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f4/Barrel_114.png",
+        "id": 114,
+        "name": "Be My Honey",
+        "base_production": [
+            "821.6 SD",
+            "821.6 q",
+            "8.216e53"
+        ],
+        "version_added": "3.4",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/97/Barrel_115.png",
+        "id": 115,
+        "name": "Trash can on wheels",
+        "base_production": [
+            "2.465 sD",
+            "2.465 r",
+            "2.465e54"
+        ],
+        "version_added": "3.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0d/Barrel_116.png",
+        "id": 116,
+        "name": "LaCroc",
+        "base_production": [
+            "7.395 sD",
+            "7.395 r",
+            "7.395e54"
+        ],
+        "version_added": "3.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3f/Barrel_117.png",
+        "id": 117,
+        "name": "Vampire Coffee",
+        "base_production": [
+            "22.18 sD",
+            "22.18 r",
+            "2.218e55"
+        ],
+        "version_added": "3.5",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ae/Barrel_118.png",
+        "id": 118,
+        "name": "Plug n Play",
+        "base_production": [
+            "66.55 sD",
+            "66.55 r",
+            "6.655e55"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a9/Barrel_119.png",
+        "id": 119,
+        "name": "Borgasm",
+        "base_production": [
+            "199.6 sD",
+            "199.6 r",
+            "1.996e56"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/57/Barrel_120.png",
+        "id": 120,
+        "name": "Santa's Door",
+        "base_production": [
+            "599.0 sD",
+            "599 r",
+            "5.990e56"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/19/Barrel_121.png",
+        "id": 121,
+        "name": "Where's the Toast? (WtB)",
+        "base_production": [
+            "1.797 OD",
+            "1.797 s",
+            "1.797e57"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/59/Barrel_122.png",
+        "id": 122,
+        "name": "Drunk",
+        "base_production": [
+            "5.391 OD",
+            "5.391 s",
+            "5.391e57"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/07/Barrel_123.png",
+        "id": 123,
+        "name": "Floyd",
+        "base_production": [
+            "16.17 OD",
+            "16.17 s",
+            "1.617e58"
+        ],
+        "version_added": "3.7",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c9/Barrel_124.png",
+        "id": 124,
+        "name": "We wish you a...",
+        "base_production": [
+            "48.51 OD",
+            "48.51 s",
+            "4.851e58"
+        ],
+        "version_added": "3.8",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e9/Barrel_125.png",
+        "id": 125,
+        "name": "...Merry Christmas",
+        "base_production": [
+            "145.5 OD",
+            "145.5 s",
+            "1.455e59"
+        ],
+        "version_added": "3.8",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/97/Barrel_126.png",
+        "id": 126,
+        "name": "Sign here",
+        "base_production": [
+            "436.6 OD",
+            "436.6 s",
+            "4.366e59"
+        ],
+        "version_added": "3.8",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/64/Barrel_127.png",
+        "id": 127,
+        "name": [
+            "Box o' Candy",
+            "<i>Free candy canes</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "1.310 ND",
+            "1.31 t",
+            "1.310e60"
+        ],
+        "version_added": "4.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/63/Barrel_128.png",
+        "id": 128,
+        "name": "Because I'm hungry",
+        "base_production": [
+            "3.930 ND",
+            "3.93 t",
+            "3.930e60"
+        ],
+        "version_added": "4.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/27/Barrel_129.png",
+        "id": 129,
+        "name": [
+            "Santa's Beer",
+            "<i>Where's the milk? <span class=\"explain\" lang=\"\" style=\"color: #;\" title=\"A special group of barrels is called Where's the... group.\">(WtB)</span></i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "11.79 ND",
+            "11.79 t",
+            "1.179e61"
+        ],
+        "version_added": "4.0",
+        "year_added": 2017
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/36/Barrel_130.png",
+        "id": 130,
+        "name": [
+            "Dear Tom. Love Jerry",
+            "<i>BOOOOOOOM!!</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "35.37 ND",
+            "35.37 t",
+            "3.537e61"
+        ],
+        "version_added": "4.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c3/Barrel_131.png",
+        "id": 131,
+        "name": [
+            "King of the Hill",
+            "<i>Siege</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "106.1 ND",
+            "106.1 t",
+            "1.061e62"
+        ],
+        "version_added": "4.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/ca/Barrel_132.png",
+        "id": 132,
+        "name": [
+            "Milk n'Sugar",
+            "<i>The Morning After</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "318.3 ND",
+            "318.3 t",
+            "3.183e62"
+        ],
+        "version_added": "4.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4f/Barrel_133.png",
+        "id": 133,
+        "name": "Frosty",
+        "base_production": [
+            "955.0 ND",
+            "955 t",
+            "9.550e62"
+        ],
+        "version_added": "4.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/07/Barrel_134.png",
+        "id": 134,
+        "name": [
+            "T-minus 10 Seconds...",
+            "<i>Ghosts-B-Gone</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "2.865 V",
+            "2.865 u",
+            "2.865e63"
+        ],
+        "version_added": "4.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/70/Barrel_135.png",
+        "id": 135,
+        "name": [
+            "Where's the Straw? <span class=\"explain\" lang=\"\" style=\"color: #;\" title=\"A special group of barrels is called Where's the... group.\">(WtB)</span>",
+            "<i>Happy Juice</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "8.595 V",
+            "8.595 u",
+            "8.595e63"
+        ],
+        "version_added": "4.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/18/Barrel_136.png",
+        "id": 136,
+        "name": [
+            "Dear Jerry. love Tom",
+            "<i>Heavy</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "25.78 V",
+            "25.78 u",
+            "2.578e64"
+        ],
+        "version_added": "4.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/89/Barrel_137.png",
+        "id": 137,
+        "name": "Screwed",
+        "base_production": [
+            "77.35 V",
+            "77.35 u",
+            "7.735e64"
+        ],
+        "version_added": "4.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/41/Barrel_138.png",
+        "id": 138,
+        "name": "Astroturf",
+        "base_production": [
+            "232.0 V",
+            "232 u",
+            "2.320e65"
+        ],
+        "version_added": "4.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1f/Barrel_139.png",
+        "id": 139,
+        "name": [
+            "Charged",
+            "<i>100%</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "696.1 V",
+            "696.1 u",
+            "6.961e65"
+        ],
+        "version_added": "4.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/38/Barrel_140.png",
+        "id": 140,
+        "name": [
+            "Lego Lookout",
+            "<i>The other Brick</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "2.088 UV",
+            "2.088 v",
+            "2.088e66"
+        ],
+        "version_added": "4.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c6/Barrel_141.png",
+        "id": 141,
+        "name": "Quack",
+        "base_production": [
+            "6.265 UV",
+            "6.265 v",
+            "6.265e66"
+        ],
+        "version_added": "4.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/50/Barrel_142.png",
+        "id": 142,
+        "name": [
+            "Intergalactic",
+            "<i>Infinity</i> <sup>(Before 5.9)</sup>",
+            "<i>Universe</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "18.79 UV",
+            "18.79 v",
+            "1.879e67"
+        ],
+        "version_added": "4.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9c/Barrel_143.png",
+        "id": 143,
+        "name": "Green water tank",
+        "base_production": [
+            "56.39 UV",
+            "56.39 v",
+            "5.639e67"
+        ],
+        "version_added": "4.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1e/Barrel_144.png",
+        "id": 144,
+        "name": [
+            "Great Balls o' Fire",
+            "<i>Eruption</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "169.1 UV",
+            "169.1  v",
+            "1.691e68"
+        ],
+        "version_added": "4.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ad/Barrel_145.png",
+        "id": 145,
+        "name": "Happy Juice II",
+        "base_production": [
+            "507.5 UV",
+            "507.5 v",
+            "5.075e68"
+        ],
+        "version_added": "4.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/33/Barrel_146.png",
+        "id": 146,
+        "name": [
+            "Rat-a-tat-tat",
+            "<i>Drum</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "1.522 DV",
+            "1.522 w",
+            "1.522e69"
+        ],
+        "version_added": "4.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d8/Barrel_147.png",
+        "id": 147,
+        "name": "Clean Energy",
+        "base_production": [
+            "4.567 DV",
+            "4.567 w",
+            "4.567e69"
+        ],
+        "version_added": "4.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c5/Barrel_148.png",
+        "id": 148,
+        "name": [
+            "Let It Go",
+            "<i>Icy Cubes</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "13.7 DV",
+            "13.7 w",
+            "1.370e70"
+        ],
+        "version_added": "4.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8b/Barrel_149.png",
+        "id": 149,
+        "name": "A piece is missing",
+        "base_production": [
+            "41.1 DV",
+            "41.1 w",
+            "4.110e70"
+        ],
+        "version_added": "4.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/de/Barrel_150.png",
+        "id": 150,
+        "name": [
+            "Zero point energy",
+            "<i>Advanced Technology</i> <sup>(Before 5.0)</sup>"
+        ],
+        "base_production": [
+            "123.3 DV",
+            "123.3 w",
+            "1.233e71"
+        ],
+        "version_added": "4.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/dc/Barrel_151.png",
+        "id": 151,
+        "name": "Night of the Living Barrel",
+        "base_production": [
+            "369.9 DV",
+            "369.9 w",
+            "3.699e71"
+        ],
+        "version_added": "5.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/37/Barrel_152.png",
+        "id": 152,
+        "name": "Sunset",
+        "base_production": [
+            "1.109 TV",
+            "1.109 x",
+            "1.109e72"
+        ],
+        "version_added": "5.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/dd/Barrel_153.png",
+        "id": 153,
+        "name": "Old School Kindle",
+        "base_production": [
+            "3.329 TV",
+            "3.329 x",
+            "3.329e72"
+        ],
+        "version_added": "5.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/83/Barrel_154.png",
+        "id": 154,
+        "name": "Where's the Paper? (WtB)",
+        "base_production": [
+            "9.989 TV",
+            "9.989 x",
+            "9.989e72"
+        ],
+        "version_added": "5.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/99/Barrel_155.png",
+        "id": 155,
+        "name": "Where's the Milk? (WtB)",
+        "base_production": [
+            "29.26 TV",
+            "29.26 x",
+            "2.926e73"
+        ],
+        "version_added": "5.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_156.png",
+        "id": 156,
+        "name": "128 GB",
+        "base_production": [
+            "89.90 TV",
+            "89.90 x",
+            "8.990e73"
+        ],
+        "version_added": "5.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d6/Barrel_157.png",
+        "id": 157,
+        "name": "Chocolate Bar(rel)",
+        "base_production": [
+            "269.7 TV",
+            "269.7 x",
+            "2.697e74"
+        ],
+        "version_added": "5.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4a/Barrel_158.png",
+        "id": 158,
+        "name": "Kermit",
+        "base_production": [
+            "809.1 TV",
+            "809.1 x",
+            "8.091e74"
+        ],
+        "version_added": "5.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/ba/Barrel_159.png",
+        "id": 159,
+        "name": "Hopes and Dreams",
+        "base_production": [
+            "2.427 QV",
+            "2.427 y",
+            "2.427e75"
+        ],
+        "version_added": "5.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1e/Barrel_160.png",
+        "id": 160,
+        "name": "Heart Attack",
+        "base_production": [
+            "7.282 QV",
+            "7.282 y",
+            "7.282e75"
+        ],
+        "version_added": "5.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/13/Barrel_161.png",
+        "id": 161,
+        "name": "Just Keep Swimming",
+        "base_production": [
+            "21.84 QV",
+            "21.84 y",
+            "2.184e76"
+        ],
+        "version_added": "5.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0f/Barrel_162.png",
+        "id": 162,
+        "name": "Endtenmeister",
+        "base_production": [
+            "65.54 QV",
+            "65.54 y",
+            "6.554e76"
+        ],
+        "version_added": "5.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_163.png",
+        "id": 163,
+        "name": "2D6",
+        "base_production": [
+            "196.6 QV",
+            "196.6 y",
+            "1.966e77"
+        ],
+        "version_added": "5.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/25/Barrel_164.png",
+        "id": 164,
+        "name": "Drinks are on me",
+        "base_production": [
+            "589.8 QV",
+            "589.8 y",
+            "5.898e77"
+        ],
+        "version_added": "5.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/28/Barrel_165.png",
+        "id": 165,
+        "name": "A Barrel of Bach",
+        "base_production": [
+            "1.769 qV",
+            "1.769 z",
+            "1.769e78"
+        ],
+        "version_added": "5.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/76/Barrel_166.png",
+        "id": 166,
+        "name": "Sticky Situation",
+        "base_production": [
+            "5.308 qV",
+            "5.308 z",
+            "5.308e78"
+        ],
+        "version_added": "5.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/db/Barrel_167.png",
+        "id": 167,
+        "name": "Room Escape",
+        "base_production": [
+            "15.92 qV",
+            "15.92 z",
+            "1.592e79"
+        ],
+        "version_added": "5.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/12/Barrel_168.png",
+        "id": 168,
+        "name": "Color Puzzle",
+        "base_production": [
+            "47.78 qV",
+            "47.78 z",
+            "4.778e79"
+        ],
+        "version_added": "5.5",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/12/Barrel_169.png",
+        "id": 169,
+        "name": "SC Pad 2.0",
+        "base_production": [
+            "143.3 qV",
+            "143.3 z",
+            "1.433e80"
+        ],
+        "version_added": "5.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9d/Barrel_170.png",
+        "id": 170,
+        "name": "Take the Plunge",
+        "base_production": [
+            "430.0 qV",
+            "430.0 z",
+            "4.300e80"
+        ],
+        "version_added": "5.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/43/Barrel_171.png",
+        "id": 171,
+        "name": "What Am I?",
+        "base_production": [
+            "1.290 SV",
+            "1.290 aa",
+            "1.290e81"
+        ],
+        "version_added": "5.6",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a1/Barrel_172.png",
+        "id": 172,
+        "name": "Who You Gonna Call",
+        "base_production": [
+            "3.870 SV",
+            "3.870 aa",
+            "3.870e81"
+        ],
+        "version_added": "5.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/db/Barrel_173.png",
+        "id": 173,
+        "name": "No Pain No Gain",
+        "base_production": [
+            "11.61 SV",
+            "11.61 aa",
+            "1.161e82"
+        ],
+        "version_added": "5.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/48/Barrel_174.png",
+        "id": 174,
+        "name": "Infinity",
+        "base_production": [
+            "34.83 SV",
+            "34.83 aa",
+            "3.483e82"
+        ],
+        "version_added": "5.7",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/df/Barrel_175.png",
+        "id": 175,
+        "name": "What's up, Doc?",
+        "base_production": [
+            "104.4 SV",
+            "104.4 aa",
+            "1.044e83"
+        ],
+        "version_added": "5.8",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/87/Barrel_176.png",
+        "id": 176,
+        "name": "Mojito",
+        "base_production": [
+            "313.4 SV",
+            "313.4 aa",
+            "3.134e83"
+        ],
+        "version_added": "5.8",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ad/Barrel_177.png",
+        "id": 177,
+        "name": "Turn It Up!",
+        "base_production": [
+            "940.4 SV",
+            "940.4 aa",
+            "9.404e83"
+        ],
+        "version_added": "5.8",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3f/Barrel_178.png",
+        "id": 178,
+        "name": "Rhapsody in Blue",
+        "base_production": [
+            "2.821 sV",
+            "2.821 ab",
+            "2.821e84"
+        ],
+        "version_added": "5.9",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fa/Barrel_179.png",
+        "id": 179,
+        "name": "Lumberjack",
+        "base_production": [
+            "8.464 sV",
+            "8.464 ab",
+            "8.464e84"
+        ],
+        "version_added": "5.9",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/de/Barrel_180.png",
+        "id": 180,
+        "name": "Smoke Break",
+        "base_production": [
+            "25.39 sV",
+            "25.39 ab",
+            "2.539e85"
+        ],
+        "version_added": "5.9",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ae/Barrel_181.png",
+        "id": 181,
+        "name": "Game of Chairs",
+        "base_production": [
+            "76.17 sV",
+            "76.17 ab",
+            "7.617e85"
+        ],
+        "version_added": "5.10",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/77/Barrel_182.png",
+        "id": 182,
+        "name": "Filthy",
+        "base_production": [
+            "228.5 sV",
+            "228.5 ab",
+            "2.285e86"
+        ],
+        "version_added": "5.10",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1b/Barrel_183.png",
+        "id": 183,
+        "name": "Jackpot",
+        "base_production": [
+            "685.5 sV",
+            "685.5 ab",
+            "6.855e86"
+        ],
+        "version_added": "5.10",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/24/Barrel_184.png",
+        "id": 184,
+        "name": "Super Schrott Bros",
+        "base_production": [
+            "2.056 OV",
+            "2.056 ac",
+            "2.056e87"
+        ],
+        "version_added": "5.11",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0f/Barrel_185.png",
+        "id": 185,
+        "name": "Power Cut",
+        "base_production": [
+            "6.170 OV",
+            "6.170 ac",
+            "6.170e87"
+        ],
+        "version_added": "5.11",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/24/Barrel_186.png",
+        "id": 186,
+        "name": "Where are the burgers?",
+        "base_production": [
+            "18.51 OV",
+            "18.51 ac",
+            "1.851e88"
+        ],
+        "version_added": "5.11",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/79/Barrel_187.png",
+        "id": 187,
+        "name": "Dark Side of the Barrel",
+        "base_production": [
+            "55.53 OV",
+            "55.53 ac",
+            "5.553e88"
+        ],
+        "version_added": "6.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/13/Barrel_188.png",
+        "id": 188,
+        "name": "Excuse Me!",
+        "base_production": [
+            "166.5 OV",
+            "166.5 ac",
+            "1.665e89"
+        ],
+        "version_added": "6.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a1/Barrel_189.png",
+        "id": 189,
+        "name": "'Napple",
+        "base_production": [
+            "499.7 OV",
+            "499.7 ac",
+            "4.997e89"
+        ],
+        "version_added": "6.0",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1a/Barrel_190.png",
+        "id": 190,
+        "name": "Should I Stay or Should I Go?",
+        "base_production": [
+            "1.499 NV",
+            "1.499 ad",
+            "1.499e90"
+        ],
+        "version_added": "6.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/85/Barrel_191.png",
+        "id": 191,
+        "name": "If the life gives you lemons...",
+        "base_production": [
+            "4.498 NV",
+            "4.498 ad",
+            "4.498e90"
+        ],
+        "version_added": "6.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_192.png",
+        "id": 192,
+        "name": "Do Not Eat",
+        "base_production": [
+            "13.49 NV",
+            "13.49 ad",
+            "1.349e91"
+        ],
+        "version_added": "6.1",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/37/Barrel_193.png",
+        "id": 193,
+        "name": "Samhain",
+        "base_production": [
+            "40.48 NV",
+            "40.48 ad",
+            "4.048e91"
+        ],
+        "version_added": "6.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8f/Barrel_194.png",
+        "id": 194,
+        "name": "Merlot",
+        "base_production": [
+            "121.4 NV",
+            "121.4 ad",
+            "1.214e92"
+        ],
+        "version_added": "6.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e1/Barrel_195.png",
+        "id": 195,
+        "name": "Meow!",
+        "base_production": [
+            "364.3 NV",
+            "364.3 ad",
+            "3.643e92"
+        ],
+        "version_added": "6.2",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_196.png",
+        "id": 196,
+        "name": "Lo-res",
+        "base_production": [
+            "1.093 Tr",
+            "1.093 ae",
+            "1.093e93"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8b/Barrel_197.png",
+        "id": 197,
+        "name": "T 4 2",
+        "base_production": [
+            "3.279 Tr",
+            "3.279 ae",
+            "3.297e93"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/76/Barrel_198.png",
+        "id": 198,
+        "name": "Escher",
+        "base_production": [
+            "9.837 Tr",
+            "9.837 ae",
+            "9.837e93"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/50/Barrel_199.png",
+        "id": 199,
+        "name": "Peeled",
+        "base_production": [
+            "29.51 Tr",
+            "29.51 ae",
+            "2.951e94"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/af/Barrel_200.png",
+        "id": 200,
+        "name": "Al Dente",
+        "base_production": [
+            "88.53 Tr",
+            "88.53 ae",
+            "8.853e94"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/33/Barrel_201.png",
+        "id": 201,
+        "name": [
+            "Cardboard Shirt",
+            "The Box<sup>Before 6.3</sup>"
+        ],
+        "base_production": [
+            "256.6 Tr",
+            "256.6 ae",
+            "2.566e95"
+        ],
+        "version_added": "6.3",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/94/Barrel_202.png",
+        "id": 202,
+        "name": "Cup o' Java",
+        "base_production": [
+            "796.8 Tr",
+            "796.8 ae",
+            "7.968e95"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a4/Barrel_203.png",
+        "id": 203,
+        "name": "Cyber Milk",
+        "base_production": [
+            "2.390 UTR",
+            "2.390 af",
+            "2.390e96"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a2/Barrel_204.png",
+        "id": 204,
+        "name": "Champion",
+        "base_production": [
+            "7.171 UTR",
+            "7.171 af",
+            "7.171e96"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d3/Barrel_205.png",
+        "id": 205,
+        "name": [
+            "Edible",
+            "Where's the Toast?<sup>Before 6.5</sup>"
+        ],
+        "base_production": [
+            "21.51 UTR",
+            "21.51 af",
+            "2.151e97"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5f/Barrel_206.png",
+        "id": 206,
+        "name": "Please Flush",
+        "base_production": [
+            "64.54 UTR",
+            "64.54 af",
+            "6.454e97"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/32/Barrel_207.png",
+        "id": 207,
+        "name": "Chardonnay",
+        "base_production": [
+            "193.6 UTR",
+            "193.6 af",
+            "1.936e98"
+        ],
+        "version_added": "6.4",
+        "year_added": 2018
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c4/Barrel_208.png",
+        "id": 208,
+        "name": [
+            "3.47",
+            "4.22<sup>Before 6.7</sup>"
+        ],
+        "base_production": [
+            "580.8 UTR",
+            "580.8 af",
+            "5.808e98"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_209.png",
+        "id": 209,
+        "name": "T-Virus",
+        "base_production": [
+            "1.742 DTR",
+            "1.742 ag",
+            "1.742e99"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/82/Barrel_210.png",
+        "id": 210,
+        "name": "Cloud 9",
+        "base_production": [
+            "5.227 DTR",
+            "5.227 ag",
+            "5.227e99"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9b/Barrel_211.png",
+        "id": 211,
+        "name": "Havana",
+        "base_production": [
+            "15.68 DTR",
+            "15.68 ag",
+            "1.568e100"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/64/Barrel_212.png",
+        "id": 212,
+        "name": "Antidote",
+        "base_production": [
+            "47.04 DTR",
+            "47.04 ag",
+            "4.704e100"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/79/Barrel_213.png",
+        "id": 213,
+        "name": "Motorhead",
+        "base_production": [
+            "141.1 DTR",
+            "141.1 ag",
+            "1.414e101"
+        ],
+        "version_added": "6.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/16/Barrel_214.png",
+        "id": 214,
+        "name": "Peyote",
+        "base_production": [
+            "423.4 DTR",
+            "423.4 ag",
+            "4.234e101"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3b/Barrel_215.png",
+        "id": 215,
+        "name": "Sub Zero",
+        "base_production": [
+            "1.27 TTR",
+            "1.27 ah",
+            "1.27e102"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/23/Barrel_216.png",
+        "id": 216,
+        "name": "180",
+        "base_production": [
+            "3.811 TTR",
+            "3.811 ah",
+            "3.811e102"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2a/Barrel_217.png",
+        "id": 217,
+        "name": "SGBG",
+        "base_production": [
+            "11.43 TTR",
+            "11.43 ah",
+            "1.143e103"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_218.png",
+        "id": 218,
+        "name": "Where's the fuse? (WtB)",
+        "base_production": [
+            "34.3 TTR",
+            "34.3 ah",
+            "3.43e103"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/38/Barrel_219.png",
+        "id": 219,
+        "name": "Endgame",
+        "base_production": [
+            "102.9 TTR",
+            "102.9 ah",
+            "1.029e104"
+        ],
+        "version_added": "6.6",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c3/Barrel_220.png",
+        "id": 220,
+        "name": "Cool",
+        "base_production": [
+            "308.7 TTR",
+            "308.7 ah",
+            "3.087e104"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a5/Barrel_221.png",
+        "id": 221,
+        "name": "Happy Birthday, Scrap 2",
+        "base_production": [
+            "926.1 TTR",
+            "926.1 ah",
+            "9.261e104"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c2/Barrel_222.png",
+        "id": 222,
+        "name": "Purple Potion of Peril",
+        "base_production": [
+            "2.778 QTR",
+            "2.778 ai",
+            "2.778e105"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fc/Barrel_223.png",
+        "id": 223,
+        "name": "Keep Dry",
+        "base_production": [
+            "8.335 QTR",
+            "8.355 ai",
+            "8.355e105"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/96/Barrel_224.png",
+        "id": 224,
+        "name": "Cut the Blue Wire...?",
+        "base_production": [
+            "25 QTR",
+            "25 ai",
+            "2.5e106"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c1/Barrel_225.png",
+        "id": 225,
+        "name": "Shrove",
+        "base_production": [
+            "75.01 QTR",
+            "75.01 ai",
+            "7.501e106"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3b/Barrel_226.png",
+        "id": 226,
+        "name": "Pizza Party",
+        "base_production": [
+            "225 QTR",
+            "225 ai",
+            "2.25e107"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e3/Barrel_227.png",
+        "id": 227,
+        "name": "Cr\u00e8me",
+        "base_production": [
+            "675.1 QTR",
+            "675.1 ai",
+            "6.751e107"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_228.png",
+        "id": 228,
+        "name": [
+            "No Stamp required",
+            "Message in a jar<sup>Before 6.8</sup>"
+        ],
+        "base_production": [
+            "2.025 qTR",
+            "2.025 aj",
+            "2.025e108"
+        ],
+        "version_added": "6.7*",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/23/Barrel_229.png",
+        "id": 229,
+        "name": "Double Down",
+        "base_production": [
+            "6.076 qTR",
+            "6.076 aj",
+            "6.076e108"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/01/Barrel_230.png",
+        "id": 230,
+        "name": "Bit",
+        "base_production": [
+            "18.22 qTR",
+            "18.22 aj",
+            "1.822e109"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/99/Barrel_231.png",
+        "id": 231,
+        "name": "Carat",
+        "base_production": [
+            "54.68 qTR",
+            "54.68 aj",
+            "5.468e109"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ab/Barrel_232.png",
+        "id": 232,
+        "name": "Slurp!",
+        "base_production": [
+            "164 qTR",
+            "164 aj",
+            "1.64e110"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3d/Barrel_233.png",
+        "id": 233,
+        "name": "Jack and Jill",
+        "base_production": [
+            "492.1 qTR",
+            "492.1 aj",
+            "4.921e110"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/00/Barrel_234.png",
+        "id": 234,
+        "name": "Cow Juice",
+        "base_production": [
+            "1.476 STR",
+            "1.476 ak",
+            "1.476e111"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/08/Barrel_235.png",
+        "id": 235,
+        "name": "Come Fly With Me",
+        "base_production": [
+            "4.429 STR",
+            "4.429 ak",
+            "4.429e111"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fa/Barrel_236.png",
+        "id": 236,
+        "name": "R.I.P.",
+        "base_production": [
+            "13.28 STR",
+            "13.28 ak",
+            "1.328e112"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fa/Barrel_237.png",
+        "id": 237,
+        "name": "Hacker Alert",
+        "base_production": [
+            "39.86 STR",
+            "39.86 ak",
+            "3.986e112"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/24/Barrel_238.png",
+        "id": 238,
+        "name": "Pentatower",
+        "base_production": [
+            "119.6 STR",
+            "119.6 ak",
+            "1.196e113"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/97/Barrel_239.png",
+        "id": 239,
+        "name": "Not Too Hot",
+        "base_production": [
+            "358.8 STR",
+            "358.8 ak",
+            "3.588e113"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a8/Barrel_240.png",
+        "id": 240,
+        "name": "Not Too Cold",
+        "base_production": [
+            "1.076 sTR",
+            "1.076 al",
+            "1.076e114"
+        ],
+        "version_added": "6.8",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7b/Barrel_241.png",
+        "id": 241,
+        "name": "Where's the Pepper? (WtB)",
+        "base_production": [
+            "3.229 sTR",
+            "3.229 al",
+            "3.229e114"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_242.png",
+        "id": 242,
+        "name": "Impossibarrel",
+        "base_production": [
+            "9.687 sTR",
+            "9.687 al",
+            "9.687e114"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/21/Barrel_243.png",
+        "id": 243,
+        "name": "Ethereal",
+        "base_production": [
+            "29.06 sTR",
+            "29.06 al",
+            "2.906e115"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/07/Barrel_244.png",
+        "id": 244,
+        "name": "Confusion",
+        "base_production": [
+            "87.18 sTR",
+            "87.18 al",
+            "8.718e115"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/10/Barrel_245.png",
+        "id": 245,
+        "name": "Where's the Jukebox? (WtB)",
+        "base_production": [
+            "261.5 sTR",
+            "261.5 al",
+            "2.615e116"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d4/Barrel_246.png",
+        "id": 246,
+        "name": "Heretic",
+        "base_production": [
+            "784.7 sTR",
+            "784.7 al",
+            "7.847e116"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/24/Barrel_247.png",
+        "id": 247,
+        "name": "S2D2",
+        "base_production": [
+            "2.354 OTR",
+            "2.354 am",
+            "2.354e117"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/24/Barrel_248.png",
+        "id": 248,
+        "name": "Chamber",
+        "base_production": [
+            "7.062 OTR",
+            "7.062 am",
+            "7.062e117"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c6/Barrel_249.png",
+        "id": 249,
+        "name": "Neon",
+        "base_production": [
+            "21.18 OTR",
+            "21.18 am",
+            "2.118e118"
+        ],
+        "version_added": "7.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/90/Barrel_250.png",
+        "id": 250,
+        "name": "Do Not Lick",
+        "base_production": [
+            "63.56 OTR",
+            "63.56 am",
+            "6.356e118"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d4/Barrel_251.png",
+        "id": 251,
+        "name": "Ribbed",
+        "base_production": [
+            "190.6 OTR",
+            "190.6 am",
+            "1.906e119"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f3/Barrel_252.png",
+        "id": 252,
+        "name": "Biscuit vs. Cookie",
+        "base_production": [
+            "572 OTR",
+            "572 am",
+            "5.72e119"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b6/Barrel_253.png",
+        "id": 253,
+        "name": "Ladies Night",
+        "base_production": [
+            "1.716 NTR",
+            "1.716 an",
+            "1.716e120"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d8/Barrel_254.png",
+        "id": 254,
+        "name": "Carbonated",
+        "base_production": [
+            "5.148 NTR",
+            "5.148 an",
+            "5.148e120"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c9/Barrel_255.png",
+        "id": 255,
+        "name": "Eternal Darkness",
+        "base_production": [
+            "15.44 NTR",
+            "15.44 an",
+            "1.544e121"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/73/Barrel_256.png",
+        "id": 256,
+        "name": "Mehiko",
+        "base_production": [
+            "46.33 NTR",
+            "46.33 an",
+            "4.633e121"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2e/Barrel_257.png",
+        "id": 257,
+        "name": "Special Delivery",
+        "base_production": [
+            "139 NTR",
+            "139 an",
+            "1.39e122"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0a/Barrel_258.png",
+        "id": 258,
+        "name": "More Pancakes?",
+        "base_production": [
+            "417 NTR",
+            "417 an",
+            "4.17e122"
+        ],
+        "version_added": "7.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7c/Barrel_259.png",
+        "id": 259,
+        "name": "One Missing",
+        "base_production": [
+            "1.251 QU",
+            "1.251 ao",
+            "1.251e123"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3a/Barrel_260.png",
+        "id": 260,
+        "name": "You've Got Mail",
+        "base_production": [
+            "3.753 QU",
+            "3.753 ao",
+            "3.753e123"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c4/Barrel_261.png",
+        "id": 261,
+        "name": "Where's the Needle? (WtB)",
+        "base_production": [
+            "11.25 QU",
+            "11.25 ao",
+            "1.125e124"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e3/Barrel_262.png",
+        "id": 262,
+        "name": "Night Fever",
+        "base_production": [
+            "33.77 QU",
+            "33.77 ao",
+            "3.377e124"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d2/Barrel_263.png",
+        "id": 263,
+        "name": "The Cure",
+        "base_production": [
+            "101.3 QU",
+            "101.3 ao",
+            "1.013e125"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e9/Barrel_264.png",
+        "id": 264,
+        "name": "Barrel (bl) Z264",
+        "base_production": [
+            "304 QU",
+            "304 ao",
+            "3.04e125"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8c/Barrel_265.png",
+        "id": 265,
+        "name": "Format C",
+        "base_production": [
+            "912 QU",
+            "912 ao",
+            "9.12e125"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a9/Barrel_266.png",
+        "id": 266,
+        "name": "2d(R-r)",
+        "base_production": [
+            "2.736 UQU",
+            "2.736 ap",
+            "2.736e126"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/60/Barrel_267.png",
+        "id": 267,
+        "name": "Malevolence",
+        "base_production": [
+            "8.208 UQU",
+            "8.208 ap",
+            "8.208e126"
+        ],
+        "version_added": "7.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c8/Barrel_268.png",
+        "id": 268,
+        "name": "All my Love",
+        "base_production": [
+            "24.62 UQU",
+            "24.62 ap",
+            "2.462e127"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/54/Barrel_269.png",
+        "id": 269,
+        "name": "Fodder",
+        "base_production": [
+            "73.87 UQU",
+            "73.87 ap",
+            "7.387e127"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/27/Barrel_270.png",
+        "id": 270,
+        "name": "WC Emergency",
+        "base_production": [
+            "221.6 UQU",
+            "221.6 ap",
+            "2.216e128"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/74/Barrel_271.png",
+        "id": 271,
+        "name": "Blustacks",
+        "base_production": [
+            "664.8 UQU",
+            "664.8 ap",
+            "6.648e128"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e5/Barrel_272.png",
+        "id": 272,
+        "name": "Five O's",
+        "base_production": [
+            "1.994 DQU",
+            "1.994 aq",
+            "1.994e129"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/36/Barrel_273.png",
+        "id": 273,
+        "name": "Tropical Milkshake",
+        "base_production": [
+            "5.983 DQU",
+            "5.983 aq",
+            "5.983e129"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d4/Barrel_274.png",
+        "id": 274,
+        "name": "The World Keeps Turnin'",
+        "base_production": [
+            "17.95 DQU",
+            "17.95 aq",
+            "1.795e130"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e2/Barrel_275.png",
+        "id": 275,
+        "name": "Original Delivery",
+        "base_production": [
+            "53.85 DQU",
+            "53.85 aq",
+            "5.385e130"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/bc/Barrel_276.png",
+        "id": 276,
+        "name": "Where's the Tequilla? (WtB)",
+        "base_production": [
+            "161.5 DQU",
+            "161.5 aq",
+            "1.615e131"
+        ],
+        "version_added": "7.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5c/Barrel_277.png",
+        "id": 277,
+        "name": "16R23L42R",
+        "base_production": [
+            "484.6 DQU",
+            "484.6 aq",
+            "4.846e131"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/00/Barrel_278.png",
+        "id": 278,
+        "name": "Blue Magic",
+        "base_production": [
+            "1.454 TQU",
+            "1.454 ar",
+            "1.454e132"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/af/Barrel_279.png",
+        "id": 279,
+        "name": "On or Off?",
+        "base_production": [
+            "4.362 TQU",
+            "4.362 ar",
+            "4.362e132"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/33/Barrel_280.png",
+        "id": 280,
+        "name": "Amazingly Corny",
+        "base_production": [
+            "13.08 TQU",
+            "13.08 ar",
+            "1.308e133"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/91/Barrel_281.png",
+        "id": 281,
+        "name": "A Barrel A Day",
+        "base_production": [
+            "39.26 TQU",
+            "39.26 ar",
+            "3.926e133"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2d/Barrel_282.png",
+        "id": 282,
+        "name": "Open With Care",
+        "base_production": [
+            "117.7 TQU",
+            "117.7 ar",
+            "1.117e134"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/ea/Barrel_283.png",
+        "id": 283,
+        "name": "The Scrap Chronicles",
+        "base_production": [
+            "353.3 TQU",
+            "353.3 ar",
+            "3.533e134"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/97/Barrel_284.png",
+        "id": 284,
+        "name": "Yummy!",
+        "base_production": [
+            "1.06 QQU",
+            "1.06 as",
+            "1.06e135"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0d/Barrel_285.png",
+        "id": 285,
+        "name": "Baozi",
+        "base_production": [
+            "3.18 QQU",
+            "3.18 as",
+            "3.18e135"
+        ],
+        "version_added": "7.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/bf/Barrel_286.png",
+        "id": 286,
+        "name": "Tesseract",
+        "base_production": [
+            "9.54 QQU",
+            "9.54 as",
+            "9.54e135"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/bd/Barrel_287.png",
+        "id": 287,
+        "name": "Scrap O'clock",
+        "base_production": [
+            "28.62 QQU",
+            "28.62 as",
+            "2.862e136"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d3/Barrel_288.png",
+        "id": 288,
+        "name": "Rainbow Cake",
+        "base_production": [
+            "85.86 QQU",
+            "85.86 as",
+            "8.586e136"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/13/Barrel_289.png",
+        "id": 289,
+        "name": "Time to Merge!",
+        "base_production": [
+            "257.5 QQU",
+            "257.5 as",
+            "2.575e137"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1d/Barrel_290.png",
+        "id": 290,
+        "name": "Top Drawer",
+        "base_production": [
+            "772.7 QQU",
+            "772.7 as",
+            "7.727e137"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/10/Barrel_291.png",
+        "id": 291,
+        "name": "Schrott Bucks",
+        "base_production": [
+            "2.318 qQU",
+            "2.318 at",
+            "2.318e138"
+        ],
+        "version_added": "7.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e6/Barrel_292.png",
+        "id": 292,
+        "name": "Scrapyola",
+        "base_production": [
+            "6.954 qQU",
+            "6.954 at",
+            "6.954e138"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2c/Barrel_293.png",
+        "id": 293,
+        "name": "Stacked and Sweet",
+        "base_production": [
+            "20.86 qQU",
+            "20.86 at",
+            "2.086e139"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/cd/Barrel_294.png",
+        "id": 294,
+        "name": "Use By July 2019",
+        "base_production": [
+            "62.59 qQU",
+            "62.59 at",
+            "6.259e139"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_295.png",
+        "id": 295,
+        "name": "Got any change?",
+        "base_production": [
+            "187.7 qQU",
+            "187.7 at",
+            "1.877e140"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/dd/Barrel_296.png",
+        "id": 296,
+        "name": "Not The Bird",
+        "base_production": [
+            "563.3 qQU",
+            "563.3 at",
+            "5.633e140"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f9/Barrel_297.png",
+        "id": 297,
+        "name": "Expertly Sliced",
+        "base_production": [
+            "1.69 SQU",
+            "1.69 au",
+            "1.69e141"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/20/Barrel_298.png",
+        "id": 298,
+        "name": "1969",
+        "base_production": [
+            "5.07 SQU",
+            "5.07 au",
+            "5.07e141"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/48/Barrel_299.png",
+        "id": 299,
+        "name": "Do Not Drop",
+        "base_production": [
+            "15.21 SQU",
+            "15.21 au",
+            "1.521e142"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b3/Barrel_300.png",
+        "id": 300,
+        "name": "Barrel 300!",
+        "base_production": [
+            "45.63 SQU",
+            "45.63 au",
+            "4.563e142"
+        ],
+        "version_added": "8.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/1b/Barrel_301.png",
+        "id": 301,
+        "name": "Face to face",
+        "base_production": [
+            "136.8 SQU",
+            "136.8 au",
+            "1.368e143"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b5/Barrel_302.png",
+        "id": 302,
+        "name": "Nude Wristwatch",
+        "base_production": [
+            "410.6 SQU",
+            "410.6 au",
+            "4.106e143"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/ff/Barrel_303.png",
+        "id": 303,
+        "name": "My Documents",
+        "base_production": [
+            "1.232 sQU",
+            "1.232 av",
+            "1.232e144"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8c/Barrel_304.png",
+        "id": 304,
+        "name": "Quick to the Point",
+        "base_production": [
+            "3.696 sQU",
+            "3.696 av",
+            "3.696e144"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0d/Barrel_305.png",
+        "id": 305,
+        "name": "Lavender scented",
+        "base_production": [
+            "11.08 sQU",
+            "11.08 av",
+            "1.108e145"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/25/Barrel_306.png",
+        "id": 306,
+        "name": "Merger sponge",
+        "base_production": [
+            "33.26 sQU",
+            "33.26 av",
+            "3.326e145"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d9/Barrel_307.png",
+        "id": 307,
+        "name": "To the moon!",
+        "base_production": [
+            "99.79 sQU",
+            "99.79 av",
+            "9.979e145"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/18/Barrel_308.png",
+        "id": 308,
+        "name": "Where's the lamb sauce?! (WtB)",
+        "base_production": [
+            "299.3 sQU",
+            "299.3 av",
+            "2.993e146"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/03/Barrel_309.png",
+        "id": 309,
+        "name": "Where's that orange cat?(WtB)",
+        "base_production": [
+            "898.1 sQU",
+            "898.1 av",
+            "8.981e146"
+        ],
+        "version_added": "8.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_310.png",
+        "id": 310,
+        "name": "Torque",
+        "base_production": [
+            "2.694 OQU",
+            "2.694 aw",
+            "2.694e147"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d7/Barrel_311.png",
+        "id": 311,
+        "name": "New and Improved",
+        "base_production": [
+            "8.083 OQU",
+            "8.083 aw",
+            "8.083e147"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/14/Barrel_312.png",
+        "id": 312,
+        "name": "From the Hangar",
+        "base_production": [
+            "24.249 OQU",
+            "24.249 aw",
+            "2.424e148"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b7/Barrel_313.png",
+        "id": 313,
+        "name": "Washing Machine",
+        "base_production": [
+            "72.749 OQU",
+            "72.749 aw",
+            "7.274e148"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e5/Barrel_314.png",
+        "id": 314,
+        "name": "Penne al tonno",
+        "base_production": [
+            "218.249 OQU",
+            "218.249 aw",
+            "2.182e149"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0f/Barrel_315.png",
+        "id": 315,
+        "name": "Where's the Mayonnaise?(WtB)",
+        "base_production": [
+            "654.747 OQU",
+            "654.747 aw",
+            "6.547e149"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a5/Barrel_316.png",
+        "id": 316,
+        "name": "Ready to eat",
+        "base_production": [
+            "1.964 NQU",
+            "1.964 ax",
+            "1.964e150"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a7/Barrel_317.png",
+        "id": 317,
+        "name": "Delicious",
+        "base_production": [
+            "5.892 NQU",
+            "5.892 ax",
+            "5.892e150"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fb/Barrel_318.png",
+        "id": 318,
+        "name": "KiBa",
+        "base_production": [
+            "17.678 NQU",
+            "17.678 ax",
+            "1.767e151"
+        ],
+        "version_added": "8.2",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_319.png",
+        "id": 319,
+        "name": "Deliciously Baked",
+        "base_production": [
+            "53.03 NQU",
+            "53.03 ax",
+            "5.303e151"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8f/Barrel_320.png",
+        "id": 320,
+        "name": "Childhood",
+        "base_production": [
+            "159.1 NQU",
+            "159.1 ax",
+            "1.591e152"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ae/Barrel_321.png",
+        "id": 321,
+        "name": "Cuppa Joe",
+        "base_production": [
+            "477.3 NQU",
+            "477.3 ax",
+            "4.773e152"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_322.png",
+        "id": 322,
+        "name": "Gotcha!",
+        "base_production": [
+            "1.431 qu",
+            "1.431 ay",
+            "1.431e153"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/46/Barrel_323.png",
+        "id": 323,
+        "name": "Past and Present",
+        "base_production": [
+            "4.295 qu",
+            "4.295 ay",
+            "4.295e153"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/fb/Barrel_324.png",
+        "id": 324,
+        "name": "Chain Reaction",
+        "base_production": [
+            "12.88 qu",
+            "12.88 ay",
+            "1.288e154"
+        ],
+        "version_added": "8.3",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9b/Barrel_325.png",
+        "id": 325,
+        "name": "Merge like an Egyptian",
+        "base_production": [
+            "38.66 qu",
+            "38.66 ay",
+            "3.866e154"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/05/Barrel_326.png",
+        "id": 326,
+        "name": "Heating up!",
+        "base_production": [
+            "115.9 qu",
+            "115.9 ay",
+            "1.159e155"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/dd/Barrel_327.png",
+        "id": 327,
+        "name": "How to Eat?!",
+        "base_production": [
+            "347.9 qu",
+            "347.9 ay",
+            "3.479e155"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/20/Barrel_328.png",
+        "id": 328,
+        "name": "Shake it",
+        "base_production": [
+            "1.043 Uqu",
+            "1.043 az",
+            "1.043e156"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8a/Barrel_329.png",
+        "id": 329,
+        "name": "Where's the Hotdog?(WtB)",
+        "base_production": [
+            "3.131 Uqu",
+            "3.131 az",
+            "3.131e156"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/21/Barrel_330.png",
+        "id": 330,
+        "name": "DING!",
+        "base_production": [
+            "9.394 Uqu",
+            "9.394 az",
+            "9.394e156"
+        ],
+        "version_added": "8.4",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/ac/Barrel_331.png",
+        "id": 331,
+        "name": "Duck Soup",
+        "base_production": [
+            "28.18 Uqu",
+            "28.18 az",
+            "2.818e157"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c6/Barrel_332.png",
+        "id": 332,
+        "name": "Any Which Way But...",
+        "base_production": [
+            "84.55 Uqu",
+            "84.55 az",
+            "8.455e157"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/76/Barrel_333.png",
+        "id": 333,
+        "name": "Sane Frog",
+        "base_production": [
+            "253.6 Uqu",
+            "253.6 az",
+            "2.536e158"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_334.png",
+        "id": 334,
+        "name": "A stitch in time...",
+        "base_production": [
+            "760.9 Uqu",
+            "760.9 az",
+            "7.609e158"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5f/Barrel_335.png",
+        "id": 335,
+        "name": "Scream!",
+        "base_production": [
+            "2.282 Dqu",
+            "2.282 ba",
+            "2.282e159"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/db/Barrel_336.png",
+        "id": 336,
+        "name": "D\u00e9j\u00e0 Vu",
+        "base_production": [
+            "6.848 Dqu",
+            "6.848 ba",
+            "6.848e159"
+        ],
+        "version_added": "8.5",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/93/Barrel_337.png",
+        "id": 337,
+        "name": "Where's the Butter?(WtB)",
+        "base_production": [
+            "20.54 Dqu",
+            "20.54 ba",
+            "2.054e160"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3a/Barrel_338.png",
+        "id": 338,
+        "name": "A Cold Reception",
+        "base_production": [
+            "61.64 Dqu",
+            "61.64 ba",
+            "6.164e160"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/e1/Barrel_339.png",
+        "id": 339,
+        "name": "Listen Please",
+        "base_production": [
+            "184.9 Dqu",
+            "184.9 ba",
+            "1.849e161"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a6/Barrel_340.png",
+        "id": 340,
+        "name": "Ninja",
+        "base_production": [
+            "554.7 Dqu",
+            "554.7 ba",
+            "5.547e161"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b6/Barrel_341.png",
+        "id": 341,
+        "name": "Tired",
+        "base_production": [
+            "1.64 Tqu",
+            "1.64 bb",
+            "1.64e162"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a1/Barrel_342.png",
+        "id": 342,
+        "name": "Don't touch Anything",
+        "base_production": [
+            "4.992 Tqu",
+            "4.992 bb",
+            "4.992e162"
+        ],
+        "version_added": "9.0",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/ff/Barrel_343.png",
+        "id": 343,
+        "name": "Chicken or Duck?",
+        "base_production": [
+            "14.97 Tqu",
+            "14.97 bb",
+            "1.497e163"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/10/Barrel_344.png",
+        "id": 344,
+        "name": "C12H12",
+        "base_production": [
+            "44.93 Tqu",
+            "44.93 bb",
+            "4.493e163"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/95/Barrel_345.png",
+        "id": 345,
+        "name": "Surprise Box",
+        "base_production": [
+            "134.8 Tqu",
+            "134.8 bb",
+            "1.348e164"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/35/Barrel_346.png",
+        "id": 346,
+        "name": "Where is my burger?",
+        "base_production": [
+            "404.4 Tqu",
+            "404.4 bb",
+            "4.044e164"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/25/Barrel_347.png",
+        "id": 347,
+        "name": "Backyard",
+        "base_production": [
+            "1.213 Qqu",
+            "1.213 bc",
+            "1.213e165"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c3/Barrel_348.png",
+        "id": 348,
+        "name": "Hair Bane",
+        "base_production": [
+            "3.639 Qqu",
+            "3.639 bc",
+            "3.639e165"
+        ],
+        "version_added": "9.1",
+        "year_added": 2019
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f2/Barrel_349.png",
+        "id": 349,
+        "name": "Scrapels",
+        "base_production": [
+            "10.91 Qqu",
+            "10.91 bc",
+            "1.091e166"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/32/Barrel_350.png",
+        "id": 350,
+        "name": "What's cookin'?",
+        "base_production": [
+            "32.75 Qqu",
+            "32.75 bc",
+            "3.275e166"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/a1/Barrel_351.png",
+        "id": 351,
+        "name": "Duck food",
+        "base_production": [
+            "98.27 Qqu",
+            "98.27 bc",
+            "9.827e166"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/9f/Barrel_352.png",
+        "id": 352,
+        "name": "Gravity",
+        "base_production": [
+            "294.8 Qqu",
+            "294.8 bc",
+            "2.948e167"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6d/Barrel_353.png",
+        "id": 353,
+        "name": "Light & Darkness",
+        "base_production": [
+            "884.4 Qqu",
+            "884.4 bc",
+            "8.844e167"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8c/Barrel_354.png",
+        "id": 354,
+        "name": "Skyscraper",
+        "base_production": [
+            "2.653 qqu",
+            "2.653 bd",
+            "2.653e168"
+        ],
+        "version_added": "9.2",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0f/Barrel_355.png",
+        "id": 355,
+        "name": "Hot & Spicy",
+        "base_production": [
+            "7.96 qqu",
+            "7.96 bd",
+            "7.96e168"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/35/Barrel_356.png",
+        "id": 356,
+        "name": "Mr. Robot",
+        "base_production": [
+            "23.88 qqu",
+            "23.88 bd",
+            "2.388e169"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0a/Barrel_357.png",
+        "id": 357,
+        "name": "Steamed Ham",
+        "base_production": [
+            "71.64 qqu",
+            "71.64 bd",
+            "7.164e169"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/16/Barrel_358.png",
+        "id": 358,
+        "name": "How to become rich",
+        "base_production": [
+            "214.9 qqu",
+            "214.9 bd",
+            "2.149e170"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/07/Barrel_359.png",
+        "id": 359,
+        "name": "Reverse",
+        "base_production": [
+            "644.7 qqu",
+            "644.7 bd",
+            "6.447e170"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b0/Barrel_360.png",
+        "id": 360,
+        "name": "Next Dimension",
+        "base_production": [
+            "1.934 Squ",
+            "1.934 be",
+            "1.934e171"
+        ],
+        "version_added": "9.3",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/ca/Barrel_361.png",
+        "id": 361,
+        "name": "Masterchef",
+        "base_production": [
+            "5.802 Squ",
+            "5.802 be",
+            "5.802e171"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/89/Barrel_362.png",
+        "id": 362,
+        "name": "Guess the word",
+        "base_production": [
+            "17.4 Squ",
+            "17.4 be",
+            "1.74e172"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d7/Barrel_363.png",
+        "id": 363,
+        "name": "Fixit",
+        "base_production": [
+            "52.22 Squ",
+            "52.22 be",
+            "5.222e172"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/b/b1/Barrel_364.png",
+        "id": 364,
+        "name": "Where's the Bunny?",
+        "base_production": [
+            "156.6 Squ",
+            "156.6 be",
+            "1.566e173"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0a/Barrel_365.png",
+        "id": 365,
+        "name": "147",
+        "base_production": [
+            "470 Squ",
+            "470 be",
+            "4.70e173"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d9/Barrel_366.png",
+        "id": 366,
+        "name": "Out of stock",
+        "base_production": [
+            "1.41 squ",
+            "1.41 bf",
+            "1.41e174"
+        ],
+        "version_added": "9.4",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/03/Barrel_367.png",
+        "id": 367,
+        "name": "Quackuccino",
+        "base_production": [
+            "4.23 squ",
+            "4.23 bf",
+            "4.23e174"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/20/Barrel_368.png",
+        "id": 368,
+        "name": "Colony Drop",
+        "base_production": [
+            "12.69 squ",
+            "12.69 bf",
+            "1.269e175"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/c/c5/Barrel_369.png",
+        "id": 369,
+        "name": "Heal up!",
+        "base_production": [
+            "38.07 squ",
+            "38.07 bf",
+            "3.807e175"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/14/Barrel_370.png",
+        "id": 370,
+        "name": "Satellite 15",
+        "base_production": [
+            "114.2 squ",
+            "114.2 bf",
+            "1.142e176"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/28/Barrel_371.png",
+        "id": 371,
+        "name": "Breathe Deep",
+        "base_production": [
+            "342.6 squ",
+            "342.6 bf",
+            "3.426e176"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/5a/Barrel_372.png",
+        "id": 372,
+        "name": "Solid State",
+        "base_production": [
+            "1.027 Oqu",
+            "1.027 bg",
+            "1.027e177"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7a/Barrel_373.png",
+        "id": 373,
+        "name": "A barrel companion",
+        "base_production": [
+            "3.083 Oqu",
+            "3.083 bg",
+            "3.083e177"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/3c/Barrel_374.png",
+        "id": 374,
+        "name": "Home Sweet Home",
+        "base_production": [
+            "9.251 Oqu",
+            "9.251 bg",
+            "9.251e177"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/61/Barrel_375.png",
+        "id": 375,
+        "name": "Pick your favorite!",
+        "base_production": [
+            "27.75 Oqu",
+            "27.75 bg",
+            "2.775e178"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/3/34/Barrel_376.png",
+        "id": 376,
+        "name": "Two by two",
+        "base_production": [
+            "83.26 Oqu",
+            "83.26 bg",
+            "8.326e178"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/66/Barrel_377.png",
+        "id": 377,
+        "name": "Get in the tank!",
+        "base_production": [
+            "249.7 Oqu",
+            "249.7 bg",
+            "2.497e179"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/6f/Barrel_378.png",
+        "id": 378,
+        "name": "Checkmate!",
+        "base_production": [
+            "749.3 Oqu",
+            "749.3 bg",
+            "7.493e179"
+        ],
+        "version_added": "9.5",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/f/f6/Barrel_379.png",
+        "id": 379,
+        "name": "1000\u00b0",
+        "base_production": [
+            "2.248 Nqu",
+            "2.248 bh",
+            "2.248e180"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/45/Barrel_380.png",
+        "id": 380,
+        "name": "Oh snap!",
+        "base_production": [
+            "6.744 Nqu",
+            "6.744 bh",
+            "6.744e180"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/91/Barrel_381.png",
+        "id": 381,
+        "name": "Hole in one",
+        "base_production": [
+            "20.23 Nqu",
+            "20.23 bh",
+            "2.023e181"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/75/Barrel_382.png",
+        "id": 382,
+        "name": "Noodles",
+        "base_production": [
+            "60.70 Nqu",
+            "60.70 bh",
+            "6.070e181"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/99/Barrel_383.png",
+        "id": 383,
+        "name": "Not an instrument",
+        "base_production": [
+            "182.1 Nqu",
+            "182.1 bh",
+            "1.821e182"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/d/d6/Barrel_384.png",
+        "id": 384,
+        "name": "Nice Ice",
+        "base_production": [
+            "546.3 Nqu",
+            "546.3 bh",
+            "5.463e182"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/22/Barrel_385.png",
+        "id": 385,
+        "name": "Glug, glug, belch",
+        "base_production": [
+            "1.638 Se",
+            "1.638 bi",
+            "1.638e183"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4b/Barrel_386.png",
+        "id": 386,
+        "name": "What's playing?",
+        "base_production": [
+            "4.916 Se",
+            "4.916 bi",
+            "4.916e183"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/e/eb/Barrel_387.png",
+        "id": 387,
+        "name": "7.0",
+        "base_production": [
+            "14.75 Se",
+            "14.75 bi",
+            "1.475e184"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/0/0a/Barrel_388.png",
+        "id": 388,
+        "name": "Bitter citrus",
+        "base_production": [
+            "44.25 Se",
+            "44.25 bi",
+            "4.425e184"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/4/4c/Barrel_389.png",
+        "id": 389,
+        "name": "Plug in here",
+        "base_production": [
+            "132.7 Se",
+            "132.7 bi",
+            "1.327e185"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/91/Barrel_390.png",
+        "id": 390,
+        "name": "Sorbet",
+        "base_production": [
+            "398.2 Se",
+            "398.2 bi",
+            "3.982e185"
+        ],
+        "version_added": "9.6",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8b/Barrel_391.png",
+        "id": 391,
+        "name": "Take a Break",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/8/8e/Barrel_392.png",
+        "id": 392,
+        "name": "Bracer of Nobility",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/1/14/Barrel_393.png",
+        "id": 393,
+        "name": "Vitamin Bomb",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/22/Barrel_394.png",
+        "id": 394,
+        "name": "So tasty",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/5/58/Barrel_395.png",
+        "id": 395,
+        "name": "ACGT",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/9/95/Barrel_396.png",
+        "id": 396,
+        "name": "Roses and hearts",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/70/Barrel_397.png",
+        "id": 397,
+        "name": "Where are the knights?",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/7c/Barrel_398.png",
+        "id": 398,
+        "name": "Scrappy Condo",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/2/2f/Barrel_399.png",
+        "id": 399,
+        "name": "Stop... Merging time!",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/6/60/Barrel_400.png",
+        "id": 400,
+        "name": "Congratulations!",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/a/aa/Barrel_401.png",
+        "id": 401,
+        "name": "Throw a coin",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    },
+    {
+        "image_url": "https://vignette.wikia.nocookie.net/official-scrap-2/images/7/70/Barrel_402.png",
+        "id": 402,
+        "name": "Off-brand",
+        "base_production": null,
+        "version_added": "9.7",
+        "year_added": 2020
+    }
+]
